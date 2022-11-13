@@ -1,5 +1,6 @@
 .o
 *.deb
+*.kdev4
 systemd/fan-control.service
 src/fan-control
 src/*.o
